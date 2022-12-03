@@ -4,7 +4,7 @@
 
 - [Day 1: Calorie Counting](2022-12-01)
 - [Day 2: Rock Paper Scissors](2022-12-02)
-- [Day 3: [Title]](2022-12-03)
+- [Day 3: Rucksack Reorganization](2022-12-03)
 - [Day 4: [Title]](2022-12-04)
 - [Day 5: [Title]](2022-12-05)
 - [Day 6: [Title]](2022-12-06)
